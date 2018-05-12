@@ -1,0 +1,43 @@
+_repo: Red-Tape-and-Pigeon-Hole-GeneralsAs-Seen-From-the-Ranks-During-a-Campaign-in-the-Army-of-the-__23565
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Morford, Henry
+    birthdate: 1823
+    deathdate: 1881
+    gutenberg_agent_id: '34007'
+    url: http://www.gutenberg.org/2009/agents/34007
+  - agent_name: Armstrong, William H.
+    birthdate: 1824
+    deathdate: 1919
+    gutenberg_agent_id: '25910'
+    url: http://www.gutenberg.org/2009/agents/25910
+  - agent_name: Frick, Jacob G.
+    gutenberg_agent_id: '35310'
+    url: http://www.gutenberg.org/2009/agents/35310
+description: Probable author is Henry Morford; variously attributed also to William
+  H. Armstrong or Col. Jacob G. Frick.
+gutenberg_bookshelf:
+- US Civil War
+- United States
+gutenberg_issued: '2007-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23565'
+  lccn: 02011397
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories
+  -- Army of the Potomac'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+title: 'Red-Tape and Pigeon-Hole Generals
+
+  As Seen From the Ranks During a Campaign in the Army of the Potomac'
+url: http://www.gutenberg.org/ebooks/23565
